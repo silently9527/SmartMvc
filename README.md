@@ -17,7 +17,7 @@ SmartMvc
 ├── smartmvc-springboot-autoconfigure -- SmartMvc的自动化配置
 ├── smartmvc-springboot-demo -- SmartMvc的demo项目
 ├── smartmvc-springboot-starter -- SmartMvc的starter
-└── spring-mvc-demo -- SpringMVC的参考项目
+└── spring-mvc-demo -- SpringMVC的demo
 ```
 
 #### IDE、源码、依赖版本
@@ -50,3 +50,5 @@ SmartMvc
 - 11 DispatcherServlet实现doDispatch来完成请求逻辑
 - 12 全局异常处理器HandlerExceptionResolver
 - 13 核心配置类WebMvcConfigurationSupport
+- 14 SmartMvc与SpringBoot集成(一)
+- 15 SmartMvc与SpringBoot集成(二)
