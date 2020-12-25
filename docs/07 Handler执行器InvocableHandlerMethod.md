@@ -117,7 +117,7 @@ private List<Object> getMethodArgumentValues(HttpServletRequest request,
 7. 如果返回值不为空，条件返回值处理器
 
 
-#### 9.2 单元测试
+#### 单元测试
 本节开发内容较为简单，到此已经开发完成，接下来单元测试一下是否能够正常的调用控制器的方法
 
 创建控制器`TestInvocableHandlerMethodController`
