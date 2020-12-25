@@ -10,6 +10,7 @@ SpringMVC的原理在网络上到处都可以找得到，但是写的都很概�
 
 
 #### 项目结构
+```
 SmartMvc
 ├── docs -- 开发文档
 ├── smart-mvc -- 实现mvc功能的核心代码
@@ -17,7 +18,7 @@ SmartMvc
 ├── smartmvc-springboot-demo -- SmartMvc的demo项目
 ├── smartmvc-springboot-starter -- SmartMvc的starter
 └── spring-mvc-demo -- SpringMVC的参考项目
-
+```
 
 #### IDE、源码、依赖版本
 - JDK的版本1.8
