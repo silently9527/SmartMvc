@@ -36,7 +36,6 @@ SmartMvc
 
 
 #### 文档目录
-文档备用地址：[https://silently9527.cn/](https://silently9527.cn)
 
 - 01 SmartMVC总体架构规划
 - 02 RequestMappingHandlerMapping初始化过程
