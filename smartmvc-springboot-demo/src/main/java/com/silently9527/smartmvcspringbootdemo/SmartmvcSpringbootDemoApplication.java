@@ -13,7 +13,4 @@ public class SmartmvcSpringbootDemoApplication {
         application.run(args);
     }
 
-
-
-
 }
