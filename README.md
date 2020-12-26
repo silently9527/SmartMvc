@@ -39,7 +39,7 @@ SmartMvc
 
 文档备份地址：[https://silently9527.cn/archives/category/smartmvc](https://silently9527.cn/archives/category/smartmvc)
 
-- [01 SmartMVC总体架构规划](https://silently9527.cn/archives/71){:target="_blank"}
+- [01 SmartMVC总体架构规划](https://silently9527.cn/archives/71)
 - [02 RequestMappingHandlerMapping初始化过程](https://silently9527.cn/archives/72)
 - [03 拦截器HandlerInterceptor](https://silently9527.cn/archives/73)
 - [04 HandlerMapping获取对应的Handler](https://silently9527.cn/archives/74)
