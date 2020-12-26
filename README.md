@@ -37,19 +37,21 @@ SmartMvc
 
 #### 文档目录
 
-- 01 SmartMVC总体架构规划
-- 02 RequestMappingHandlerMapping初始化过程
-- 03 拦截器HandlerInterceptor
-- 04 HandlerMapping获取对应的Handler
-- 05 参数解析器HandlerMethodArgumentResolver
-- 06 返回解析器HandlerMethodReturnValueHandler
-- 07 Handler执行器InvocableHandlerMethod
-- 08 实现RequestMappingHandlerAdapter
-- 09 视图InternalResourceView、RedirectView
-- 10 视图解析器ViewResolver
-- 11 DispatcherServlet实现doDispatch来完成请求逻辑
-- 12 全局异常处理器HandlerExceptionResolver
-- 13 核心配置类WebMvcConfigurationSupport
-- 14 SmartMvc与SpringBoot集成(一)
-- 15 SmartMvc与SpringBoot集成(二)
-- 16 SmartMvc项目实战
+文档备份地址：[https://silently9527.cn/archives/category/smartmvc](https://silently9527.cn/archives/category/smartmvc)
+
+- [01 SmartMVC总体架构规划](https://silently9527.cn/archives/71)
+- [02 RequestMappingHandlerMapping初始化过程](https://silently9527.cn/archives/72)
+- [03 拦截器HandlerInterceptor](https://silently9527.cn/archives/73)
+- [04 HandlerMapping获取对应的Handler](https://silently9527.cn/archives/74)
+- [05 参数解析器HandlerMethodArgumentResolver](https://silently9527.cn/archives/75)
+- [06 返回解析器HandlerMethodReturnValueHandler](https://silently9527.cn/archives/76)
+- [07 Handler执行器InvocableHandlerMethod](https://silently9527.cn/archives/77)
+- [08 实现RequestMappingHandlerAdapter](https://silently9527.cn/archives/78)
+- [09 视图InternalResourceView、RedirectView](https://silently9527.cn/archives/79)
+- [10 视图解析器ViewResolver](https://silently9527.cn/archives/80)
+- [11 DispatcherServlet实现doDispatch来完成请求逻辑](https://silently9527.cn/archives/81)
+- [12 全局异常处理器HandlerExceptionResolver](https://silently9527.cn/archives/82)
+- [13 核心配置类WebMvcConfigurationSupport](https://silently9527.cn/archives/83)
+- [14 SmartMvc与SpringBoot集成(一)](https://silently9527.cn/archives/84)
+- [15 SmartMvc与SpringBoot集成(二)](https://silently9527.cn/archives/85)
+- [16 SmartMvc项目实战](https://silently9527.cn/archives/86)
