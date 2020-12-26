@@ -2,7 +2,7 @@
 
 ![uml](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/71c3c04a7b9941e6970489ac1fa3c0ab~tplv-k3u1fbpfcp-watermark.image)
 
-本篇我们先完成jsp视图的渲染以及重定向视图的渲染；在整个项目开发完成之后，我们再通过自定义视图的方式开发Excel视图和JSON视图。
+本篇我们先完成jsp视图的渲染以及重定向视图的渲染；
 
 #### 开发步骤讲解
 

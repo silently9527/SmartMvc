@@ -1,11 +1,12 @@
 package com.silently9527.smartmvc;
 
 import com.silently9527.smartmvc.http.HttpStatus;
+import org.springframework.ui.ExtendedModelMap;
 import org.springframework.ui.Model;
 
 public class ModelAndView {
     private Object view;
-    private Model model;
+    private Model model = new ExtendedModelMap();
     private HttpStatus status;
 
     public void setView(Object view) {

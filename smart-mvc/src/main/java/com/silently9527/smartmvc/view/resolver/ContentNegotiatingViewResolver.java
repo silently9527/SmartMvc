@@ -46,7 +46,7 @@ public class ContentNegotiatingViewResolver implements ViewResolver, Initializin
         Enumeration<String> acceptHeaders = request.getHeaders("Accept");
         while (acceptHeaders.hasMoreElements()) {
             for (View view : candidateViews) {
-                if (acceptHeaders.nextElement().equals(view.getContentType())) {
+                if (acceptHeaders.nextElement().contains(view.getContentType())) {
                     return view;
                 }
             }
