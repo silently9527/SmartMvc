@@ -56,3 +56,9 @@ SmartMvc
 - [14 SmartMvc与SpringBoot集成(一)](https://silently9527.cn/archives/84)
 - [15 SmartMvc与SpringBoot集成(二)](https://silently9527.cn/archives/85)
 - [16 SmartMvc项目实战](https://silently9527.cn/archives/86)
+
+
+
+#### 微信公众号
+
+<img width="200" src="https://raw.githubusercontent.com/silently9527/JavaCore/master/imgs/gonzhonghao.png" alt="公众号">
