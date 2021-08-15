@@ -54,8 +54,8 @@ SmartMvc
 - [12 全局异常处理器HandlerExceptionResolver](https://silently9527.cn/archives/12handlerexceptionresolver%E5%85%A8%E5%B1%80%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E5%99%A8)
 - [13 核心配置类WebMvcConfigurationSupport](https://silently9527.cn/archives/13webmvcconfigurationsupport-%E6%A0%B8%E5%BF%83%E9%85%8D%E7%BD%AE%E7%B1%BB)
 - [14 SmartMvc与SpringBoot集成(一)](https://silently9527.cn/archives/14smartmvc%E4%B8%8Espringboot%E9%9B%86%E6%88%90%E4%B8%80)
-- [15 SmartMvc与SpringBoot集成(二)](https://silently9527.cn/archives/85)
-- [16 SmartMvc项目实战](https://silently9527.cn/archives/86)
+- [15 SmartMvc与SpringBoot集成(二)](https://silently9527.cn/archives/15smartmvc-yu-springboot-ji-cheng--er-)
+- [16 SmartMvc项目实战](https://silently9527.cn/archives/16smartmvc-xiang-mu-shi-zhan)
 
 
 #### 微信公众号
