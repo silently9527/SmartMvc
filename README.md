@@ -58,13 +58,9 @@ SmartMvc
 - [16 SmartMvc项目实战](https://silently9527.cn/archives/16smartmvc-xiang-mu-shi-zhan)
 
 
-#### 期待你的加入
+#### 期待你的加入，公众号：`贝塔学Java`
 
 <img src="https://cdn.silently9527.cn/weixhao_gongzonghao_1629032267170.jpg?imageView2/1/w/600/h/350" alt="公众号">
-
-
-## 我的技术博客
-[https://silently9527.cn/](https://silently9527.cn/)
 
 ## 其他项目推荐
 * [前后端完全开源高颜值淘客APP](https://github.com/silently9527/coupons)
@@ -72,3 +68,9 @@ SmartMvc
 * [Java程序员自我学习的书单](https://github.com/silently9527/ProgrammerBooks)
 * [技术文章以及代码收录仓库](https://github.com/silently9527/ProgrammerNotes)
 * [高颜值可定制化的简介导航网站](http://nav.silently9527.cn/)
+
+
+
+## 我的技术博客
+[https://silently9527.cn/](https://silently9527.cn/)
+
