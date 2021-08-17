@@ -58,15 +58,17 @@ SmartMvc
 - [16 SmartMvc项目实战](https://silently9527.cn/archives/16smartmvc-xiang-mu-shi-zhan)
 
 
-#### 微信公众号
+#### 期待你的加入
 
-<img width="200" src="https://tva1.sinaimg.cn/large/008i3skNgy1gtezj6orcdj60gu0gswfr02.jpg" alt="公众号">
-
-#### 需要进入技术交流群的同学，添加我的个人微信号：silently9527
-
-<img width="200" src="https://tva1.sinaimg.cn/large/008i3skNgy1gteyh15a44j60h40g03zo02.jpg" alt="silently9527">
+<img width="200" src="http://cdn.silently9527.cn/weixhao_gongzonghao_1629032267170.jpg" alt="公众号">
 
 
 ## 我的技术博客
 [https://silently9527.cn/](https://silently9527.cn/)
 
+## 其他项目推荐
+* [前后端完全开源高颜值淘客APP](https://github.com/silently9527/coupons)
+* [深入解析SpringMVC核心原理：从手写简易版MVC框架开始(SmartMvc)](https://github.com/silently9527/SmartMvc)
+* [Java程序员自我学习的书单](https://github.com/silently9527/ProgrammerBooks)
+* [技术文章以及代码收录仓库](https://github.com/silently9527/ProgrammerNotes)
+* [高颜值可定制化的简介导航网站](http://nav.silently9527.cn/)
