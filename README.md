@@ -60,7 +60,7 @@ SmartMvc
 
 #### 期待你的加入
 
-<img width="200" src="http://cdn.silently9527.cn/weixhao_gongzonghao_1629032267170.jpg" alt="公众号">
+<img src="http://cdn.silently9527.cn/weixhao_gongzonghao_1629032267170.jpg?imageView2/1/w/400/h/400" alt="公众号">
 
 
 ## 我的技术博客
