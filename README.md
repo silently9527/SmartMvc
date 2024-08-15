@@ -45,33 +45,24 @@ SmartMvc
 达到去枝干立主脑，让读者能够更加顺畅的理解整个流转的过程
 
 
-#### 文档目录
-
-文档备份地址：[https://silently9527.cn/categories/smartmvc](https://silently9527.cn/categories/smartmvc)
-
-- [00 深入解析SpringMVC核心原理：从手写简易版MVC框架开始(SmartMvc)](https://silently9527.cn/?p=21)
-- [01 SmartMVC总体架构规划](https://silently9527.cn/?p=7)
-- [02 RequestMappingHandlerMapping初始化过程](https://silently9527.cn/?p=8)
-- [03 拦截器HandlerInterceptor](https://silently9527.cn/?p=9)
-- [04 HandlerMapping获取对应的Handler](https://silently9527.cn/?p=10)
-- [05 参数解析器HandlerMethodArgumentResolver](https://silently9527.cn/?p=11)
-- [06 返回解析器HandlerMethodReturnValueHandler](https://silently9527.cn/?p=12)
-- [07 Handler执行器InvocableHandlerMethod](https://silently9527.cn/?p=13)
-- [08 实现RequestMappingHandlerAdapter](https://silently9527.cn/?p=14)
-- [09 视图InternalResourceView、RedirectView](https://silently9527.cn/?p=15)
-- [10 视图解析器ViewResolver](https://silently9527.cn/?p=16)
-- [11 DispatcherServlet实现doDispatch来完成请求逻辑](https://silently9527.cn/?p=17)
-- [12 全局异常处理器HandlerExceptionResolver](https://silently9527.cn/?p=18)
-- [13 核心配置类WebMvcConfigurationSupport](https://silently9527.cn/?p=19)
-- [14 SmartMvc与SpringBoot集成(一)](https://silently9527.cn/?p=20)
-- [15 SmartMvc与SpringBoot集成(二)](https://silently9527.cn/?p=60)
-- [16 SmartMvc项目实战](https://silently9527.cn/?p=61)
-
-
-
-#### 期待你的加入，公众号：`贝塔学Java`，个人微信号：silently9527
-
-<img src="https://cdn.silently9527.cn/weixhao_gongzonghao_1629032267170.jpg?imageView2/1/w/600/h/350" alt="公众号">
+#### 文档目录 [https://herman7z.site/Notes/No1MyProjects/](https://herman7z.site/Notes/No1MyProjects/)
+- 00 深入解析SpringMVC核心原理：从手写简易版MVC框架开始(SmartMvc)
+- 01 SmartMVC总体架构规划
+- 02 RequestMappingHandlerMapping初始化过程
+- 03 拦截器HandlerInterceptor
+- 04 HandlerMapping获取对应的Handler
+- 05 参数解析器HandlerMethodArgumentResolver
+- 06 返回解析器HandlerMethodReturnValueHandler
+- 07 Handler执行器InvocableHandlerMethod
+- 08 实现RequestMappingHandlerAdapter
+- 09 视图InternalResourceView、RedirectView
+- 10 视图解析器ViewResolver
+- 11 DispatcherServlet实现doDispatch来完成请求逻辑
+- 12 全局异常处理器HandlerExceptionResolver
+- 13 核心配置类WebMvcConfigurationSupport
+- 14 SmartMvc与SpringBoot集成(一)
+- 15 SmartMvc与SpringBoot集成(二)
+- 16 SmartMvc项目实战
 
 
 ## 其他项目推荐
@@ -79,10 +70,9 @@ SmartMvc
 * [Idea工具箱插件](https://github.com/silently9527/Toolkit)
 * [Java程序员自我学习的书单](https://github.com/silently9527/ProgrammerBooks)
 * [技术文章以及代码收录仓库](https://github.com/silently9527/ProgrammerNotes)
-* [高颜值可定制化的简介导航网站](http://nav.silently9527.cn/)
 
 
+### 博客地址: [https://herman7z.site](https://herman7z.site)
 
-## 我的技术博客
-[https://silently9527.cn/](https://silently9527.cn/)
-
+### 知识星球: [Herman's Notes](https://t.zsxq.com/h2EIR)
+![](https://raw.githubusercontent.com/silently9527/images/main/202408151725390.png)
